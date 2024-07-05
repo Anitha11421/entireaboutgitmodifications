@@ -10,7 +10,13 @@ public class Hardwork {
 		System.out.println("welcome to the selenium");
 
 		System.out.println("do practice");
+<<<<<<< HEAD
         System.out.println(".....");
+=======
+                System.out.println(".....");
+                System.out.println("welcome to the java") 
+
+>>>>>>> dc62592493cf97ae77aa3c60ffe31b26996c3bc8
 
 	}
 
