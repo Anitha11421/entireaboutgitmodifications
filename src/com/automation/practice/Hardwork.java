@@ -11,7 +11,7 @@ public class Hardwork {
 
 		System.out.println("do practice");
                 System.out.println(".....");
-                System.out.println("welcome to the java") 
+                System.out.println("welcome to the java");
 
 
 	}
